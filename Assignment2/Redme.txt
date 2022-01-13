@@ -1,0 +1,2 @@
+1. create a file mycode.c and paste the code.
+2. modify the make file to include mycode.c in the build process.
